@@ -8,7 +8,7 @@ export default {
     category: 'Music',
     data: new SlashCommandBuilder()
         .setName('join')
-        .setDescription('Join your voice channel without starting playback'),
+        .setDescription('1514575464134344745'),
 
     async execute(interaction, config, client) {
         try {
