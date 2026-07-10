@@ -12,7 +12,7 @@ export default {
   async execute(interaction) {
     try {
       const supportButton = new ButtonBuilder()
-        .setLabel("Join Support Server")
+        .setLabel("(https://discord.gg/C4nFwhGEJn)")
         .setStyle(ButtonStyle.Link)
         .setURL(SUPPORT_SERVER_URL);
 
